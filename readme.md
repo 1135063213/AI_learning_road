@@ -14,7 +14,7 @@
 
 5）[ELT(提取、转化、加载)](./content/ELT(数据仓库).md)
 
-6）[报告 vs BI(商业智能) vs 分析](./content/报告 vs BI(商业智能) vs 分析)
+6）[报告 vs BI(商业智能) vs 分析](./content/报告 vs BI(商业智能) vs 分析.md)
 
 7）[数据格式](./content/数据格式.md)
 
